@@ -1,0 +1,24 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "week1",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limeiwang0221/week1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limeiwang0221/week1/issues"
+  },
+  "homepage": "https://github.com/limeiwang0221/week1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
